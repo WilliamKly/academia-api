@@ -14,3 +14,5 @@ class GenerateRefreshToken {
 }
 
 module.exports = GenerateRefreshToken;
+
+// Só um comentário
